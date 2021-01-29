@@ -16,7 +16,7 @@ export default class Index extends Component {
   render() {
     return (
       <View>
-        <Text>自动生成体验版，哈哈</Text>
+        <Text>自动生成体验版， 分支： master</Text>
       </View>
     );
   }
